@@ -1,3 +1,3 @@
 # first
 this is my first repo
-prince
+Author - prince
